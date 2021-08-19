@@ -2,4 +2,3 @@ pytest
 pytest-mypy
 fsspec
 ipfsspec
-spatial_image_multiscale

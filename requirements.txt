@@ -1,3 +1,2 @@
-numpy
-xarray
 zarr
+spatial_image_multiscale
