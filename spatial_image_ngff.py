@@ -3,7 +3,7 @@
 Serialize and deserialize a multiscale spatial image to the
 Open Microscopy Environment (OME) Zarr Next Generation File Format (NGFF)."""
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 from typing import MutableMapping, Union
 from pathlib import Path

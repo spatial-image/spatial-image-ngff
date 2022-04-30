@@ -1,3 +1,5 @@
+**⚠️ Please use [MultiscaleSpatialImage.to_zarr](https://github.com/spatial-image/spatial-image-multiscale) instead**
+
 # spatial-image-ngff
 
 Serialize and deserialize a [multiscale spatial image](https://github.com/spatial-image/spatial-image-multiscale) to the
